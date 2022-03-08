@@ -1,0 +1,13 @@
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.exe
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.deps.json
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.runtimeconfig.json
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.runtimeconfig.dev.json
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.dll
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.pdb
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.csprojAssemblyReference.cache
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.AssemblyInfoInputs.cache
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.AssemblyInfo.cs
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.csproj.CoreCompileInputs.cache
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.dll
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.pdb
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-woman-developer-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-woman-developer-desafio-rpg.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.exe
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.deps.json
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.runtimeconfig.json
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.runtimeconfig.dev.json
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.dll
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\bin\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.pdb
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.csprojAssemblyReference.cache
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.AssemblyInfoInputs.cache
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.AssemblyInfo.cs
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.csproj.CoreCompileInputs.cache
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.dll
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.pdb
+C:\Users\dplit\OneDrive\Documentos\DEV\GIT\dio-banco-carrefour-desafio-rpg\obj\Debug\netcoreapp3.1\dio-banco-carrefour-desafio-rpg.genruntimeconfig.cache

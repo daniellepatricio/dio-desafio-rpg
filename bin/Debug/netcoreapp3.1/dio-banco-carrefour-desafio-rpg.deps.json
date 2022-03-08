@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dio-banco-carrefour-desafio-rpg/1.0.0": {
+        "runtime": {
+          "dio-banco-carrefour-desafio-rpg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dio-banco-carrefour-desafio-rpg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
